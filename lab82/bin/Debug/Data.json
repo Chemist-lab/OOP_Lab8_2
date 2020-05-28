@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Name": "Vitalik",
+    "Сity": "Lviv",
+    "Success": "Hight",
+    "Point": "90",
+    "NGroup": "21"
+  },
+  {
+    "Name": "Petro",
+    "Сity": "Kyiv",
+    "Success": "Medium",
+    "Point": "60",
+    "NGroup": "12"
+  },
+  {
+    "Name": "Stepan",
+    "Сity": "Odessa",
+    "Success": "Low",
+    "Point": "23",
+    "NGroup": "7"
+  },
+  {
+    "Name": "Danylo",
+    "Сity": "Kcharkiv",
+    "Success": "Hight",
+    "Point": "89",
+    "NGroup": "24"
+  },
+  {
+    "Name": "Andrew",
+    "Сity": "Striy",
+    "Success": "Medium",
+    "Point": "72",
+    "NGroup": "17"
+  }
+]
