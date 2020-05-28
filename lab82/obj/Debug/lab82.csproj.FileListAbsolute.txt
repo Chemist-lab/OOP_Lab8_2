@@ -11,3 +11,16 @@ D:\Labs\OOP\GIT\3 - Copy\OOP_lab8_2\lab82\lab82\obj\Debug\lab82.pdb
 D:\Labs\OOP\GIT\3 - Copy\OOP_lab8_2\lab82\lab82\bin\Debug\Newtonsoft.Json.dll
 D:\Labs\OOP\GIT\3 - Copy\OOP_lab8_2\lab82\lab82\bin\Debug\Newtonsoft.Json.xml
 D:\Labs\OOP\GIT\3 - Copy\OOP_lab8_2\lab82\lab82\obj\Debug\lab82.csproj.CopyComplete
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\bin\Debug\lab82.exe.config
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\bin\Debug\lab82.exe
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\bin\Debug\lab82.pdb
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\bin\Debug\Newtonsoft.Json.dll
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\bin\Debug\Newtonsoft.Json.xml
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.csprojAssemblyReference.cache
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.Form1.resources
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.Properties.Resources.resources
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.csproj.GenerateResource.cache
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.csproj.CoreCompileInputs.cache
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.csproj.CopyComplete
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.exe
+D:\Labs\OOP\GIT\Lab8\OOP_Lab8_2\lab82\obj\Debug\lab82.pdb
